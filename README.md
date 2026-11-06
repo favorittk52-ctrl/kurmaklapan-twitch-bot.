@@ -1,1 +1,1 @@
-# kurmaklapan-twitch-bot.
+# kurmaklapan-twitch-bot
